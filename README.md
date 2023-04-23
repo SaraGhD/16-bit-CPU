@@ -55,7 +55,7 @@ This is a Logisim-based 16-bit CPU that supports a set of instructions for perfo
 </table>
 
 ### Usage
-<img src="https://ibb.co/rxRkkJ2" alt="cpu_image">
+<img src="cpu.png" alt="cpu_image">
 
 <table> <tbody> <tr> <td>Open Logisim.</td> </tr> <tr> <td>Open the CPU.circ file in Logisim.</td> </tr> <tr> <td>To load a program, use 'Ctrl+O' shortcut and select the .circ file</td> </tr> <tr> <td>To run the program, go to "Simulate" &gt; "Ticks Enabled".</td> </tr> <tr> <td>To reset the CPU, go to "Simulate" &gt; "Reset Simulation".</td> </tr> </tbody> </table>
 
